@@ -8,7 +8,26 @@
 - 💻 Learning Python, C, JavaScript, HTML, and CSS  
 - 📊 Focused on data analysis with Pandas and Matplotlib  
 - 🛠️ Building small projects to improve real skills  
-- 🎯 Working towards becoming a solid developer  
+- 🎯 Working towards becoming a solid developer
+
+---
+
+<p align="center">
+    "As a wise man once said, 'Heaven does not create one person above or below another.'</p>
+  <p align="center"> People like to throw these words around. That's not the whole quote.  </p>
+  </p>
+<p align="center">
+    It goes on to say that while we are all equal at birth, however things begin to change.  
+    Academic effort is what sets some people apart.  
+  </p>
+<p align="center">
+    At the end of the day, equality is just a fantasy.  
+    Most people go through life denying that we live in a meritocracy."
+</p>
+
+<p align="center">
+— Kiyotaka Ayanokoji
+</p>
 
 ---
 
